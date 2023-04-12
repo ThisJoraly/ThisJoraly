@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ***
 ### My laptop
-![](https://img.shields.io/badge/Windows-MSI_Modern_14_c12u-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Windows-MSI_Modern_14_c12m-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i5_1235u-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/RAM-8_GB-0071C5?style=for-the-badge&logo=&logoColor=white)
 ***
