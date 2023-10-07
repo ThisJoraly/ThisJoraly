@@ -1,10 +1,11 @@
+```
        _                  __     
       (_)___  _________ _/ /_  __
      / / __ \/ ___/ __ `/ / / / /
     / / /_/ / /  / /_/ / / /_/ / 
  __/ /\____/_/   \__,_/_/\__, /  
 /___/                   /____/   
-
+```
 ## ThisJoraly`s GitHub page!
 - 👋 **Hello, I’m @ThisJoraly**
 - 👀 I’m interested in programming
