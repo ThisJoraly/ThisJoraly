@@ -1,4 +1,4 @@
-### <img src="prakty.jpg">
+### <img src="prakty.jpg" width="300">
 ***
 ## ThisJoraly`s GitHub page!
 - 👋 **Hello, I’m @ThisJoraly**
