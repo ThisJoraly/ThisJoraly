@@ -33,7 +33,8 @@
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Server-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ***
 ### My laptop
 ![](https://img.shields.io/badge/Windows-MSI_Modern_14_c12m-0078D6?style=for-the-badge&logo=windows&logoColor=white)
