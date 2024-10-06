@@ -36,7 +36,7 @@
 ![Ubuntu](https://img.shields.io/badge/Server-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ***
 ### My laptop
-![](https://img.shields.io/badge/Windows-MSI_Modern_14_c12m-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/MSI-Modern_14_c12m-0078D6?style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i5_1235u-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/RAM-8_GB-0071C5?style=for-the-badge&logo=&logoColor=white)
 ***
