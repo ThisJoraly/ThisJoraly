@@ -11,7 +11,7 @@
 ```
 ### 👋 **Hello, I’m @ThisJoraly** <br>
 👀 I’m interested in programming <br>
-🌱 I’m currently learning Java and Spring Framework <br>
+🌱 I’m currently working with Java and Spring Framework <br>
 👽 I am living in Russia, Moscow <br>
 
 ***
