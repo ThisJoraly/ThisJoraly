@@ -9,10 +9,10 @@
 /___/                   /____/   
 
 ```
-### 👋 **Hello, I’m @ThisJoraly** <br>
-👀 I’m interested in programming <br>
-🌱 I’m currently working with Java and Spring Framework <br>
-👽 I am living in Russia, Moscow <br>
+### 👋 Hello, it's joraly! <br>
+💻 Enthusiastic backend developer <br>
+🌱 Currently working with Java/Kotlin and Spring Boot <br>
+🏙️ Living in Russia, Moscow <br>
 
 ***
 ### My skills
@@ -20,7 +20,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
@@ -32,7 +31,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ***
 ### My dev tools and OS
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,7 +42,7 @@
 ![](https://img.shields.io/badge/Intel-Core_i5_1235u-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/RAM-8_GB-0071C5?style=for-the-badge&logo=&logoColor=white)
 ***
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisJoraly&theme=dracula&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisJoraly&theme=transparent&show_icons=true&title_color=000000&hide_border=true&text_color=000000&line_height=20&layout=compact)
 ***
 ### Contacts
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/joraly)
